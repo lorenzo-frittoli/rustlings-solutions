@@ -1,5 +1,9 @@
-# Exercise to Book Chapter mapping
+# Rustlings Excercises
+This repo is meant to show and document my progress in learning the Rust programming language through [rustlings](https://github.com/rust-lang/rustlings), a series of rust excersises based on the the [book](https://doc.rust-lang.org/book/).
 
+# Original Readme
+
+# Exercise to Book Chapter mapping
 | Exercise               | Book Chapter        |
 | ---------------------- | ------------------- |
 | variables              | §3.1                |
